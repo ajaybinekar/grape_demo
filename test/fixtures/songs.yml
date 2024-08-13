@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  artist: MyString
+  album: MyString
+  released_on: 2024-08-13
+
+two:
+  title: MyString
+  artist: MyString
+  album: MyString
+  released_on: 2024-08-13
